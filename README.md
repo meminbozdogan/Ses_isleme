@@ -28,3 +28,7 @@ Gürültülü (noisy) ve temiz (original) ses dosyaları eşleştirilerek, gür�
 ┣ 📜 filtre.py            # Çentik/Bant Durduran filtre test aracı
 ┣ 📜 otomasyon.py         # Tüm veri setini işleyen ana betik
 ┗ 📜 analiz_raporu.txt    # SNR ve MSE nicel sonuç tablosu
+
+Verisetini indirmek için linke gidiniz (subu uzantılı mail adresinizi kullanmalısınız.): https:
+//drive.google.com/drive/folders/18VmT5jot30cPlzRlJGkl-pywglfglwaO?usp=drive_
+link
